@@ -1,6 +1,6 @@
 ## Overview
 
-This script automates the process of playing YouTube videos, liking them, commenting on them, and setting the video quality to 144p. The script uses Playwright to interact with the YouTube website and perform the following actions:
+A Playwright script which automates the process of playing mutiple YouTube videos from mutiple accounts, liking them, commenting on them, and setting the video quality to 144p. The script uses Playwright to interact with the YouTube website and perform the following actions:
 
 - Play a video
 - Skip ads
